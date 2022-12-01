@@ -38,61 +38,50 @@ __Paradise Honors High School__
 
 ## Related Experience
 
-### Internships
+### Part-Time
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`September 2021 - Present`
+`Rexburg, Idaho`
+__Employer Relations Specialist__, BYU-Idaho Career Center Rexburg 
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Created Handshake accounts enhancing students/alumni internships and job opportunities by 5% 
+- Improved newsletters, emails, promotions viewing and click rate by 6.2% 
+- Scheduled regular job interviews for students 4 times a month Employer Relations Specialist 
 
-### Data Science Lead
+### Full-Time
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`June 2020 - September 2021`
+`Surprise, Arizona`
+__Pieology__, Line and Prep Cook/Trainer
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Trained 6 new employees to work fluently and with minimal errors 
+- Managed shifts while creating a friendly environment for team members and customers 
+- Designed a more efficient way of closing and opening by 50% resulting in better time management 
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+## Certifications
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`2021`
+__Certificate of Arizona Technical Skills Standards__
 
-### Data Science Consulting Team
+`2020`
+__OSHA Certification__
 
-`January 2027 - April 2027`
-__Imagine Learning__
+## Skills
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
+- Studying Python 
+- MySQL
+- Studying Python Pandas
+- Studying JavaScript 
+- HTML5 
+- Cascading Style Sheets (CSS) 
+- Proficient in Web Design and Development 
+- Excel
+- OSHA Certified
+- Mathematics 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 2022 -->
 
 
