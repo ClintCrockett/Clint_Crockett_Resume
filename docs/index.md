@@ -1,30 +1,39 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Jayton Crockett's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Jayton Crockett
+A second year student at BYUI working towards a batcholors in computer science and a minor in data science.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="datascience@byui.edu">clint.crockett88@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/groups/13537407/">https://www.linkedin.com/in/jayton-crockett-05250a1b6</a>
+<!-- | <a href="https://github.com/byuids-resumes">GitHub</a> -->
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`September 2021 - December 2024`
+`Rexburg, Idaho`
+__Brigham Young University - Idaho__, Computer Science/Minor in Data Science
 
-- Full academic scholarship with 4.0 GPA
+- 3.84 GPA
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+`August 2016 - May 2021`
+`Surprise, Arizona`
+__West-Mec__, Certificate of Arizona Technical Skills Standards 
 
-- 4.0 Major GPA
+- Software and App Design
+
+`August 2019 - May 2021`
+`Glendale, Arizona`
+__Paradise Honors High School__
+- High School Diploma 
+
+
 
 
 ## Related Experience
