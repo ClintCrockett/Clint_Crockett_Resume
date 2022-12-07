@@ -6,7 +6,7 @@ title: Jayton Crockett's Resume
 A second year student at BYUI working towards a batcholors in computer science and a minor in data science.
 
 <div id="webaddress">
-<a href="clint.crockett88@gmail.com">clint.crockett88@gmail.com</a>
+<a href="clint.crockett88@gmail.com">Email</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/jayton-crockett-05250a1b6">LinkedIn</a>
 <!-- | <a href="https://github.com/byuids-resumes">GitHub</a> -->
@@ -69,17 +69,16 @@ __OSHA Certification__
 
 ## Skills
 
-- Studying Python 
+- Python 
 - MySQL
-- Studying Python Pandas
-- Studying JavaScript 
+- Python Pandas
+- JavaScript 
 - HTML5 
 - Cascading Style Sheets (CSS) 
 - Proficient in Web Design and Development 
 - Excel
 - OSHA Certified
-- Mathematics 
-
+- Problem solving and Research Skills
 
 <!-- ### Footer
 
